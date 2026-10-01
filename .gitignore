@@ -1,0 +1,14 @@
+# Compiled program
+*.exe
+*.out
+*.o
+
+# Visual Studio build files
+*.obj
+*.pdb
+
+# Local editor settings
+.vscode/
+
+# Original instruction attachment
+*.pdf
